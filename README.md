@@ -1,3 +1,5 @@
+# C# Matching Game
 One of my first projects in Highschool
-
-A memory matching game in C#
+-------------------------------------
+My first project in C#
+---------------------------
